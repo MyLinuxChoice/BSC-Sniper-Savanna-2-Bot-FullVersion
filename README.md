@@ -1,7 +1,24 @@
-# 🚀 Pancakeswap BSC Sniper Bot 🚀
-![TradingTigers](https://camo.githubusercontent.com/903e37c7728f19549eb56fcf25babe248bc6dea2d50fea0292c497b17a70eed9/68747470733a2f2f646f63732e70616e63616b65737761702e66696e616e63652f7e2f66696c65732f76302f622f676974626f6f6b2d32383432372e61707073706f742e636f6d2f6f2f6173736574732532462d4d48524558374448636c6a625935496b6a674a2532462d4d6246535033324b7079584c756a62453646442532462d4d62465355486f7351696f455f68384f674462253246646f63732532306d61737468656164253230283231292e706e673f616c743d6d6564696126746f6b656e3d33346134346532302d313731662d343364372d396336322d613835633231333061373431)  
-Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
-## our thanks:
+<h2 align="center">⭐️BSC_Sniper_Savanna_Sniper-2_Bot_FullVersion (WINDOWS LINUX MAC)⭐️</h2>
+
+<h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
+
+<h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
+ 
+![alt text](https://github.com/JDCORPCOMPANY/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/bsc-gui.gif?raw=true "GIF application")
+ 
+[![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]()
+[![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
+ 
+ 
+<h3 align="center">⭐️ First GUI SNIPER BOT for WINDOWS & LINUX ⭐️</h3>
+
+#### Web3 Sniper GUI Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
+
 
 BOT is free-to-use,
 
