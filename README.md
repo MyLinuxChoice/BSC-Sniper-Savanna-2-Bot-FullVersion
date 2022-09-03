@@ -1,9 +1,3 @@
-<h2 align="center">⭐️BSC_Sniper_Savanna_Sniper-2_Bot_FullVersion (WINDOWS LINUX MAC)⭐️</h2>
-
-<h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
-
-<h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
- 
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -11,6 +5,14 @@
 [![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
+
+<h2 align="center">⭐️BSC_Sniper_Savanna_Sniper-2_Bot_FullVersion (WINDOWS LINUX MAC)⭐️</h2>
+
+<h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
+
+<h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
+ 
+
  
  
 <h3 align="center">⭐️ First GUI SNIPER BOT for WINDOWS & LINUX ⭐️</h3>
