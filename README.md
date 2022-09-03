@@ -11,11 +11,7 @@
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
 
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
- 
 
- 
- 
-<h3 align="center">⭐️ First GUI SNIPER BOT for WINDOWS & LINUX ⭐️</h3>
 
 #### Web3 Sniper GUI Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
