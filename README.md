@@ -7,7 +7,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 
 <h2 align="center">⭐️BSC_Sniper_Savanna_Sniper-2_Bot_FullVersion(WINDOWS LINUX MAC)⭐️</h2>
-
+ 
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
 
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
