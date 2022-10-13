@@ -11,7 +11,8 @@
 
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
 
-(https://github.com/seeememagaiin/BSC-Sniper-Savanna-2-Bot-FullVersion/blob/main/Screenshot.png)
+![Sniper](https://github.com/seeememagaiin/BSC-Sniper-Savanna-2-Bot-FullVersion/blob/main/Screenshot.png)  
+
 
 #### Web3 Sniper GUI Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
