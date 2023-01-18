@@ -4,7 +4,7 @@
 [![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]() 
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]() 
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
- 
+  
 <h2 align="center">⭐️BSC Sniper Savanna 2 Bot FullVersion(WINDOWS LINUX MAC)⭐️</h2>
   
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
