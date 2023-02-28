@@ -20,7 +20,7 @@
 
 BOT is free-to-use,
 
-
+ 
 ## The second Binance Smart Chain sniper bot with Honeypot checker!  
 
 
@@ -39,7 +39,7 @@ Windows: Need to install Visual Studio BuildTools & Python3
 ```
 
 ### Setup your Address and secret key in Settings.json.
-
+ 
 Clone Repo:  
 ```shell
 git clone https://github.com/JDCORPCOMPANY/BSC_Sniper_Savanna_Sniper-2_Bot_FullVersion/
