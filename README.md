@@ -8,7 +8,7 @@
 <h2 align="center">⭐️BSC Sniper Savanna 2 Bot FullVersion(WINDOWS LINUX MAC)⭐️</h2>
   
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
- 
+  
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
 
 ![Sniper](https://github.com/seeememagaiin/BSC-Sniper-Savanna-2-Bot-FullVersion/blob/main/Screenshot.png)  
