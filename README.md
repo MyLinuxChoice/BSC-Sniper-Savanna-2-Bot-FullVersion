@@ -28,7 +28,7 @@ BOT is free-to-use,
 This Tool only buys/sells with/to BNB but use Multi Hops to get the best Output!
 Attention, You pay **[0.1% Tax]** on your swap amount!
  
-
+ 
 # Install
 **First of all, you need install Python3+**
 Run on Android you need Install [Termux](https://termux.com/)  
